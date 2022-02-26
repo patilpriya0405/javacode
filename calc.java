@@ -6,5 +6,6 @@ public class calc
         c=a+b;
         d=b-a;
         System.out.println("Sum of two int Numbers :"+c);
+        System.out.println("Sub of two int Numbers :"+d);
     }
 }
